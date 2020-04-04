@@ -1,12 +1,3 @@
-.sheet {
-    width: 250px;
-    padding: 15px;
-    border: 1px solid darksalmon;
-    position: relative;
-    text-align: center;
-    background-color: khaki;
-    margin: 30px;
-}
 
 .sheetHeader {
     width: 100%;
